@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cloudcomm\\source\\repos\\TCSNunitSeleniumC#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56B6D559-1E49-F5B0-22E2-BF682076F8C6}|TCSNunitSeleniumC#\\TCSNunitSeleniumC#.csproj|c:\\users\\cloudcomm\\source\\repos\\tcsnunitseleniumc#\\tcsnunitseleniumc#\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B6D559-1E49-F5B0-22E2-BF682076F8C6}|TCSNunitSeleniumC#\\TCSNunitSeleniumC#.csproj|solutionrelative:tcsnunitseleniumc#\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\cloudcomm\\source\\repos\\TCSNunitSeleniumC#\\TCSNunitSeleniumC#\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TCSNunitSeleniumC#\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\cloudcomm\\source\\repos\\TCSNunitSeleniumC#\\TCSNunitSeleniumC#\\UnitTest1.cs",
+              "RelativeToolTip": "TCSNunitSeleniumC#\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T06:45:52.806Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
